@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'haus'" />
+    <option name="defaultScopeName" value="Project 'haus'" />
+    <option name="SEARCH_SCOPE" value="Project 'haus'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
