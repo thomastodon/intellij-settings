@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="package.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -21,6 +21,10 @@
       <mask>*.html</mask>
       <mask>*.j</mask>
       <mask>*.json</mask>
+      <mask>.json</mask>
+      <mask>pack.json</mask>
+      <mask>packa.json</mask>
+      <mask>package.json</mask>
     </recentFileMasks>
   </component>
 </application>
