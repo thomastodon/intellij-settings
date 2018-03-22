@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ino" type="C++" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="bosh" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="erb" type="YAML" />
