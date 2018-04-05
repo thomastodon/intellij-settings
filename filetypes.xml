@@ -4,6 +4,7 @@
       <mapping ext="ino" type="C++" />
       <mapping pattern="bosh" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="hello" type="PLAIN_TEXT" />
       <mapping ext="erb" type="YAML" />
     </extensionMap>
   </component>
