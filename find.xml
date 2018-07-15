@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -24,6 +25,7 @@
       <mask>pack.json</mask>
       <mask>packa.json</mask>
       <mask>package.json</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
